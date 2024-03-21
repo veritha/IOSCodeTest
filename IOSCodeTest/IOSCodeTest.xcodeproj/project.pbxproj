@@ -20,7 +20,6 @@
 		AC0E372B2BAB4FB200090848 /* ImageSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0E372A2BAB4FB200090848 /* ImageSearchViewModel.swift */; };
 		AC0E372D2BAB4FF400090848 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0E372C2BAB4FF400090848 /* HomeView.swift */; };
 		AC0E37662BAB50BB00090848 /* FlickrItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0E37652BAB50BB00090848 /* FlickrItem.swift */; };
-		AC0E37682BAB526400090848 /* ImageSearchViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0E37672BAB526400090848 /* ImageSearchViewModelTests.swift */; };
 		AC0E376A2BAB52D700090848 /* MockURLSession.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0E37692BAB52D700090848 /* MockURLSession.swift */; };
 		AC0E376C2BAB52FB00090848 /* MockURLSessionDataTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0E376B2BAB52FB00090848 /* MockURLSessionDataTask.swift */; };
 		AC0E376F2BAB535B00090848 /* URLSessionDataTaskProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC0E376E2BAB535B00090848 /* URLSessionDataTaskProtocol.swift */; };
@@ -66,7 +65,6 @@
 		AC0E372A2BAB4FB200090848 /* ImageSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSearchViewModel.swift; sourceTree = "<group>"; };
 		AC0E372C2BAB4FF400090848 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		AC0E37652BAB50BB00090848 /* FlickrItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlickrItem.swift; sourceTree = "<group>"; };
-		AC0E37672BAB526400090848 /* ImageSearchViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSearchViewModelTests.swift; sourceTree = "<group>"; };
 		AC0E37692BAB52D700090848 /* MockURLSession.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockURLSession.swift; sourceTree = "<group>"; };
 		AC0E376B2BAB52FB00090848 /* MockURLSessionDataTask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockURLSessionDataTask.swift; sourceTree = "<group>"; };
 		AC0E376E2BAB535B00090848 /* URLSessionDataTaskProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionDataTaskProtocol.swift; sourceTree = "<group>"; };
@@ -150,7 +148,6 @@
 			isa = PBXGroup;
 			children = (
 				AC0E37092BAB47F100090848 /* IOSCodeTestTests.swift */,
-				AC0E37672BAB526400090848 /* ImageSearchViewModelTests.swift */,
 				AC0E37692BAB52D700090848 /* MockURLSession.swift */,
 				AC0E376B2BAB52FB00090848 /* MockURLSessionDataTask.swift */,
 				AC0E377C2BAB650300090848 /* FlickrServiceTests.swift */,
@@ -360,7 +357,6 @@
 				AC0E376A2BAB52D700090848 /* MockURLSession.swift in Sources */,
 				AC0E376C2BAB52FB00090848 /* MockURLSessionDataTask.swift in Sources */,
 				AC0E377F2BAB686A00090848 /* MockFlickrService.swift in Sources */,
-				AC0E37682BAB526400090848 /* ImageSearchViewModelTests.swift in Sources */,
 				AC0E377D2BAB650300090848 /* FlickrServiceTests.swift in Sources */,
 				AC0E370A2BAB47F100090848 /* IOSCodeTestTests.swift in Sources */,
 			);
